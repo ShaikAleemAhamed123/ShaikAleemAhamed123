@@ -35,7 +35,7 @@ I'm a budding software developer from India 🇮🇳
 <a href="https://github.com/ShaikAleemAhamed123/utilityAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikAleemAhamed123&repo=utilityAPI&theme=dark" />
 </a>
-<a href="https://github.com/ShaikAleemAhamed123/portfolioreactapp">
+<a href="https://aleemahameds-portfolio.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikAleemAhamed123&repo=portfolioreactapp&theme=dark" />
 </a>
 
