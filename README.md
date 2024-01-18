@@ -15,7 +15,7 @@ I'm a budding software developer from India 🇮🇳
 - 💬 Ask me about anything [here](https://github.com/ShaikAleemAhamed123/ShaikAleemAhamed123/issues)
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python&theme=dark)](https://skillicons.dev)
 
 #### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,spring,docker&theme=dark)](https://skillicons.dev)
@@ -26,7 +26,7 @@ I'm a budding software developer from India 🇮🇳
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,maven,jenkins,bash,linux&theme=dark)](https://skillicons.dev)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikAleemAhamed123&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aleem's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAleemAhamed123&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/ShaikAleemAhamed123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikAleemAhamed123&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aleem's github stats" /></a> | <a href="https://github.com/ShaikAleemAhamed123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAleemAhamed123&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
