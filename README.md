@@ -14,31 +14,17 @@ I'm a budding software developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/ShaikAleemAhamed123/ShaikAleemAhamed123/issues)
 
-#### Skill Set:
-<img  align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left"  alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left"   alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<br/>  
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp&theme=dark)](https://skillicons.dev)
 
-<!-- #### Frameworks/Platforms: -->
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,spring,docker&theme=dark)](https://skillicons.dev)
 
-<img align="left" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
-<br/> 
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-<!-- #### Data:  -->
-<img align="left" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  
-<br />
-
-<!-- #### Tools: -->
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left"  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img  align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<br/ >
-
+#### Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,maven,jenkins,bash,linux&theme=dark)](https://skillicons.dev)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikAleemAhamed123&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aleem's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAleemAhamed123&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
