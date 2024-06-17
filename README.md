@@ -12,7 +12,7 @@ I'm a budding software developer from India 🇮🇳
 
 - ❤️ I love working with Java Backend systems and Javascript frameworks.
 
-- 💬 Ask me about anything [here](https://github.com/ShaikAleemAhamed123/ShaikAleemAhamed123/issues)
+- 💬 Ask me about anything [here](https://aleemahameds-portfolio.netlify.app/#Contact)
 
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python&theme=dark)](https://skillicons.dev)
@@ -43,5 +43,5 @@ I'm a budding software developer from India 🇮🇳
 <br />
 
 <a href="https://twitter.com/terminus_being">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Aleem Ahamed Shaik | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
